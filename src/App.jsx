@@ -238,13 +238,13 @@ export default function App() {
             full-stack.
           </p>
           <div className="contact__links">
-            <a className="btn btn--primary" href="mailto:seuemail@exemplo.com">
+            <a className="btn btn--primary" href="mailto:matheusa026@gmail.com">
               matheusa026@gmail.com
             </a>
             <a className="btn btn--ghost" href="https://github.com/MatheusA2004" target="_blank" rel="noreferrer">
               GitHub
             </a>
-            <a className="btn btn--ghost" href="https://linkedin.com/in/seuusuario" target="_blank" rel="noreferrer">
+            <a className="btn btn--ghost" href="https://www.linkedin.com/in/matheus-almeida-dev/" target="_blank" rel="noreferrer">
               LinkedIn
             </a>
           </div>
